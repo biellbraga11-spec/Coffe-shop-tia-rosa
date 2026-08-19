@@ -2,37 +2,37 @@
     "1": {
         "nome": "pao de queijo",
         "preco": 1.5,
-        "estoque": 100
+        "estoque": 96
     },
     "2": {
         "nome": "tapioca",
         "preco": 3.0,
-        "estoque": 100
+        "estoque": 95
     },
     "3": {
         "nome": "cafe",
         "preco": 3.5,
-        "estoque": 99
+        "estoque": 98
     },
     "4": {
         "nome": "pingado",
         "preco": 4.0,
-        "estoque": 100
+        "estoque": 98
     },
     "5": {
         "nome": "coxinha",
         "preco": 5.0,
-        "estoque": 50
+        "estoque": 43
     },
     "6": {
         "nome": "suco de laranja",
         "preco": 6.5,
-        "estoque": 45
+        "estoque": 44
     },
     "7": {
         "nome": "refrigerante",
         "preco": 7.0,
-        "estoque": 70
+        "estoque": 68
     },
     "8": {
         "nome": "enroladinho",
@@ -42,11 +42,21 @@
     "9": {
         "nome": "torta de frango",
         "preco": 8.0,
-        "estoque": 15
+        "estoque": 7
     },
     "10": {
         "nome": "bolo de limão",
-        "preco": 7.5,
-        "estoque": 12
+        "preco": 4.75,
+        "estoque": 0
+    },
+    "11": {
+        "nome": "bolo de limão",
+        "preco": 4.75,
+        "estoque": 10
+    },
+    "12": {
+        "nome": "Bolo de limão",
+        "preco": 5.5,
+        "estoque": 50
     }
 }

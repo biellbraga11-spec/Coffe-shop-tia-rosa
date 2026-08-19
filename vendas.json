@@ -1,0 +1,129 @@
+[
+    {
+        "cliente": "6",
+        "itens": [
+            "coxinha",
+            "pingado",
+            "cafe",
+            "tapioca",
+            "pao de queijo",
+            "pao de queijo",
+            "pao de queijo",
+            "torta de frango"
+        ],
+        "preco": 28.0,
+        "pagamento": "Pix",
+        "data_hora": "19/08/2026 12:54:40",
+        "data": "19/08/2026"
+    },
+    {
+        "cliente": "gabriel",
+        "itens": [
+            "tapioca",
+            "tapioca",
+            "cafe",
+            "torta de frango"
+        ],
+        "preco": 17.5,
+        "pagamento": "Dinheiro",
+        "data_hora": "19/08/2026 13:35:50",
+        "data": "19/08/2026"
+    },
+    {
+        "cliente": "5",
+        "itens": [
+            "pingado",
+            "tapioca"
+        ],
+        "preco": 7.0,
+        "pagamento": "Pix",
+        "data_hora": "19/08/2026 13:36:53",
+        "data": "19/08/2026"
+    },
+    {
+        "cliente": "biel",
+        "itens": [
+            "coxinha",
+            "tapioca",
+            "pao de queijo"
+        ],
+        "preco": 9.5,
+        "pagamento": "Pix",
+        "data_hora": "19/08/2026 13:39:58",
+        "data": "19/08/2026"
+    },
+    {
+        "cliente": "1",
+        "itens": [
+            "bolo de limão",
+            "bolo de limão",
+            "bolo de limão",
+            "bolo de limão",
+            "bolo de limão",
+            "bolo de limão"
+        ],
+        "preco": 28.5,
+        "pagamento": "Dinheiro",
+        "data_hora": "19/08/2026 13:47:28",
+        "data": "19/08/2026"
+    },
+    {
+        "cliente": "1",
+        "itens": [
+            "coxinha",
+            "torta de frango",
+            "torta de frango",
+            "torta de frango",
+            "coxinha"
+        ],
+        "preco": 34.0,
+        "pagamento": "Pix",
+        "data_hora": "19/08/2026 13:48:13",
+        "data": "19/08/2026"
+    },
+    {
+        "cliente": "92920202",
+        "itens": [
+            "refrigerante",
+            "suco de laranja",
+            "torta de frango",
+            "torta de frango",
+            "torta de frango"
+        ],
+        "preco": 37.5,
+        "pagamento": "Pix",
+        "data_hora": "19/08/2026 13:48:56",
+        "data": "19/08/2026"
+    },
+    {
+        "cliente": "1",
+        "itens": [
+            "coxinha"
+        ],
+        "preco": 5.0,
+        "pagamento": "Pix",
+        "data_hora": "19/08/2026 13:49:45",
+        "data": "19/08/2026"
+    },
+    {
+        "cliente": "1",
+        "itens": [
+            "coxinha"
+        ],
+        "preco": 5.0,
+        "pagamento": "Pix",
+        "data_hora": "19/08/2026 13:50:42",
+        "data": "19/08/2026"
+    },
+    {
+        "cliente": "1",
+        "itens": [
+            "refrigerante",
+            "coxinha"
+        ],
+        "preco": 12.0,
+        "pagamento": "Pix",
+        "data_hora": "19/08/2026 14:48:45",
+        "data": "19/08/2026"
+    }
+]
